@@ -29,6 +29,12 @@ This project performs sentiment analysis on Reddit comments using Python and vis
 ### Avg Polarity by Subreddit
 ![Polarity](./dashboard_avg_polarity.png)
 
+## 📈 Dashboard Preview
+
+![Reddit Sentiment Dashboard](./dashboard_final.png)
+
+
+
 
 
 
