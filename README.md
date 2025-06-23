@@ -18,6 +18,18 @@ This project performs sentiment analysis on Reddit comments using Python and vis
   - Subreddit-wise sentiment breakdown
   - Avg. polarity by subreddit with color scale
 
+## 📈 Visualizations
+
+### Sentiment Distribution
+![Sentiment](./dashboard_sentiment_distribution.png)
+
+### Subreddit Sentiment
+![Subreddits](./dashboard_subreddit_sentiment.png)
+
+### Avg Polarity by Subreddit
+![Polarity](./dashboard_avg_polarity.png)
+
+
 
 
 
